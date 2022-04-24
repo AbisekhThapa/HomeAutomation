@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366173104513",
+    "project_id": "homeauto-57275",
+    "storage_bucket": "homeauto-57275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366173104513:android:dfef9a2d505f5c9440e080",
+        "android_client_info": {
+          "package_name": "com.example.homeauto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366173104513-a728ud8k3bo4vvqm2g09c2j6fkrrasr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXn03FDJAu7bHwJ9zrVzxr1KimvxQNW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366173104513-a728ud8k3bo4vvqm2g09c2j6fkrrasr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
